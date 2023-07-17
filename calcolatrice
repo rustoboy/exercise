@@ -15,7 +15,7 @@ Di seguito un elenco delle varie funzioni disponibili:
 """
 
 
-while True:
+while true:
     print(hello_message)
 
     action = input("Inserisci il numero corrispondete all'operazione da effettuare: ")
